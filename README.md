@@ -1,2 +1,0 @@
-# EstupidaTesis
-datos combustion
